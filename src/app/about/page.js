@@ -5,7 +5,6 @@ import sticker from "@/../public/sticker-heart.png";
 import shopeeIcon from "@/../public/icon-shopee.png";
 import unileverIcon from "@/../public/icon-unilever.png";
 import humannoidIcon from "@/../public/humannoid.png";
-import advantechIcon from "@/../public/advantech.png";
 import hotaiIcon from "@/../public/hotai.png";
 import clubIcon1 from "@/../public/opennccu.png";
 import eduIcon from "@/../public/eduIcon.png";
@@ -56,7 +55,7 @@ export default function AboutPage() {
           ],
         },
         {
-          icon: advantechIcon,
+          
           title: "研華股份有限公司｜Digital & Content Marketing Intern｜2023/07 - 2023/08",
           details: [
             "透過議題拆解、產業調查、痛點分析等，深入瞭解 B2B 線上學習平台現況並提出效益評估",
