@@ -1,10 +1,7 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/about/page": "app/about/page.js",
-  "/exhibitdesign/page": "app/exhibitdesign/page.js",
   "/page": "app/page.js",
-  "/uiuxdesign/page": "app/uiuxdesign/page.js",
+  "/about/page": "app/about/page.js",
+  "/digitalmkt/page": "app/digitalmkt/page.js",
   "/businessproject/page": "app/businessproject/page.js",
-  "/digitalmkt/page": "app/digitalmkt/page.js"
+  "/exhibitdesign/page": "app/exhibitdesign/page.js"
 }
